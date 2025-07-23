@@ -1,8 +1,0 @@
-/starscription
-  ├── pages/
-  │   ├── index.tsx
-  │   └── api/
-  │       └── create-checkout-session.ts
-  ├── package.json
-  ├── tsconfig.json
-  └── next.config.js

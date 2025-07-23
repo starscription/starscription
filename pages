@@ -1,0 +1,4 @@
+/pages
+  ├── index.tsx
+  └── api
+      └── create-checkout-session.ts

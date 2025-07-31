@@ -1,9 +1,11 @@
 export default function Cancer() {
   return (
-    <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>♋️ Cancer Horoscope</h1>
+    <div>
+      <h1>Cancer</h1>
       <p>
-        Your feelings are valid. All of them. Even the one about crying during a potato chip commercial. It’s okay.
+        Your feelings are extra powerful today — which means you're either about to cry over a
+        commercial or start a side business. Could go either way.
       </p>
-      <p>
-        You’re in your comfort zone today — ideally wrapped in a blanket, binge-watching a show
+    </div>
+  );
+}
